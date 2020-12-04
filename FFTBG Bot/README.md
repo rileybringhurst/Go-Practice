@@ -1,5 +1,7 @@
 FFTBG is essentially a computer playing against itself in an old Playstation game, with viewers betting fake money on the results.
+
 Article- https://kotaku.com/final-fantasy-tactics-battleground-lets-you-gamble-fake-1840998880
+
 Official site- https://www.twitch.tv/fftbattleground
 
 I built the API calls to get data on the upcoming match and repurposed a Twitch chat bot library to track results and place bets.
